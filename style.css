@@ -1,0 +1,168 @@
+
+img {
+
+    height: 100vh;
+    width: 100vw;
+}
+
+.typewriter{
+    font-size: 100px;
+    color: white;
+    font-family: 'Orelega One', cursive;
+}
+
+i.fas.fa-crow::before {
+    padding-left: 10px;
+    color: grey;
+}
+
+a.navbar-brand {
+    color: gray;
+}
+
+p {
+    color: white;
+    font-size: 40px;
+}
+
+p.lead {
+    color: gray;
+}
+
+#jumbo-text {
+    color: gray;
+}
+
+a#jumbo-button.btn.btn-primary {
+position: relative;
+left: 650px;
+background-color: gray;
+border-color: gray;
+}
+
+a#jumbo-button.btn.btn-primary:hover {
+color: gray;
+background-color: whitesmoke;
+border-color: gray;
+
+}
+
+p#texto-de-carta.card-text {
+    color: gray;
+    height: 50px;
+    font-size: 20px;
+
+}
+
+#card-section {
+    position: absolute;
+    top: 1000px;
+    left: 1000px;
+    height: 50px;
+    width: 100px;
+}
+
+img.card-img-top {
+
+    height: 120px;
+}
+
+.card-body {
+
+    height: 170px;
+}
+
+.wave-section img {
+    height: 100px;
+    position: relative;
+    top: 40px;
+}
+
+
+p#texto-de-carta2 {
+    font-size: 20px;
+    color: gray;
+}
+
+#cards-section {
+padding: 250px 0px;
+justify-content: space-around;
+}
+
+div#card-body.card-body {
+    height: 250px;
+}
+
+img.card-img-top {
+
+    height: 175px;
+}
+
+
+a.btn.btn-primary {
+    background-color: gray;
+    border-color: gray;
+}
+
+a.btn.btn-primary:hover {
+    background-color: white;
+    color: gray;
+    border-color: gray;
+}
+
+
+#image2 img
+{
+    position: relative;
+    top: -120px;
+ height: 75px;
+}
+
+
+section#cards-section.d-flex {
+    background-color:rgba(63, 65, 63, .05);
+
+}
+
+
+#wave1 {
+    z-index: -1;
+}
+
+
+div#cuerpo-de-carta.card-body {
+    height: 140px;
+}
+
+
+div#korpe.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+a#botton.btn.btn-primary {
+    position: relative;
+    top: 75px;
+}
+
+
+#ultimasection {
+    display: flex;
+    justify-content: space-around;
+    background-color: gray;
+    color: white;
+    height: 150px;
+    width: 100vw;
+}
+
+#pp {
+font-size: 20px;
+}
+
+strong {
+    color: black;
+}
